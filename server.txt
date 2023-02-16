@@ -1,0 +1,1 @@
+HSOZ:sv.hsoz.me:19129:0,0,Local:127.0.0.1:19129:0,Global Server:hsglobal.teamobi.com:19129:1,0
